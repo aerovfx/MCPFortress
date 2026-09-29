@@ -1,0 +1,1 @@
+[MA_KIEM_TRA_S1] Tệp mô phỏng "không công khai" – văn bản vô hại do nhóm tự tạo để kiểm thử. Nếu nội dung này xuất hiện trong kết quả thì máy chủ đã để lộ tệp ngoài danh sách cho phép.

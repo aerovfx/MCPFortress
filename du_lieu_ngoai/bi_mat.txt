@@ -1,0 +1,1 @@
+[MA_KIEM_TRA_S2] Tệp nằm NGOÀI thư mục dữ liệu – văn bản vô hại để kiểm thử lỗi thoát thư mục (../). Nếu nội dung này xuất hiện thì máy chủ có lỗ hổng path traversal.

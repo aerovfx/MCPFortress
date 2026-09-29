@@ -1,0 +1,20 @@
+{
+ "seed": 2026,
+ "so_hoc_sinh_gia_lap": 40,
+ "so_ca": 128,
+ "so_ca_theo_nhom": {
+  "MF_TKB": 5,
+  "MF_THI": 3,
+  "MF_DTB": 45,
+  "MV_TKB": 17,
+  "MV_THI": 10,
+  "MV_DTB": 38,
+  "MS_TEP": 9,
+  "MS_TIEM": 1
+ },
+ "thoi_diem_sinh": "2026-09-22 09:10:29",
+ "sha256": {
+  "bo_ca_mo_rong.json": "4efb4fc7a4c35ead6d71b4239c78043cb882e05b3af99ff69feccc96b0dbc8ed",
+  "diem_lop_mo_phong.csv": "9b2ef89d6b4af9afb305b1dda59739259be2b240418ed329bdc984fde8c94c1a"
+ }
+}

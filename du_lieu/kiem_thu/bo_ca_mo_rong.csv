@@ -1,0 +1,129 @@
+﻿ma,nhom,thao_tac,gia_tri,ky_vong,gia_tri_dung,mo_ta
+MF_TKB-001,MF_TKB,tkb,"""t2""",chap_nhan,"[""Toán"", ""Ngữ văn"", ""Tin học"", ""Tiếng Anh""]",TKB ngày t2
+MF_TKB-002,MF_TKB,tkb,"""t3""",chap_nhan,"[""Vật lí"", ""Hoá học"", ""Ngữ văn"", ""Giáo dục thể chất""]",TKB ngày t3
+MF_TKB-003,MF_TKB,tkb,"""t4""",chap_nhan,"[""Toán"", ""Sinh học"", ""Tin học"", ""Lịch sử""]",TKB ngày t4
+MF_TKB-004,MF_TKB,tkb,"""t5""",chap_nhan,"[""Tiếng Anh"", ""Vật lí"", ""Địa lí"", ""Toán""]",TKB ngày t5
+MF_TKB-005,MF_TKB,tkb,"""t6""",chap_nhan,"[""Ngữ văn"", ""Hoá học"", ""Công nghệ"", ""Sinh hoạt lớp""]",TKB ngày t6
+MF_THI-001,MF_THI,lich_thi,"""toan""",chap_nhan,"[""10/12"", ""P.101""]",Lịch thi môn toan
+MF_THI-002,MF_THI,lich_thi,"""tin""",chap_nhan,"[""12/12"", ""Phòng máy 1""]",Lịch thi môn tin
+MF_THI-003,MF_THI,lich_thi,"""van""",chap_nhan,"[""14/12"", ""P.101""]",Lịch thi môn van
+MF_DTB-001,MF_DTB,diem_tb,"[{""diem"": 4.25, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 3.75, ""he_so"": 1}, {""diem"": 3.25, ... (dài 167 ký tự)",chap_nhan,5.08,ĐTB học sinh HS001
+MF_DTB-002,MF_DTB,diem_tb,"[{""diem"": 8.75, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 6.5, ""h... (dài 164 ký tự)",chap_nhan,7.61,ĐTB học sinh HS002
+MF_DTB-003,MF_DTB,diem_tb,"[{""diem"": 7.5, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 7.5, ""he... (dài 164 ký tự)",chap_nhan,7.72,ĐTB học sinh HS003
+MF_DTB-004,MF_DTB,diem_tb,"[{""diem"": 8.75, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 9.0, ""he_so"": 1}, {""diem"": 10.0, ""... (dài 166 ký tự)",chap_nhan,8.89,ĐTB học sinh HS004
+MF_DTB-005,MF_DTB,diem_tb,"[{""diem"": 5.5, ""he_so"": 1}, {""diem"": 5.0, ""he_so"": 1}, {""diem"": 4.5, ""he_so"": 1}, {""diem"": 5.25, ""he... (dài 164 ký tự)",chap_nhan,5.94,ĐTB học sinh HS005
+MF_DTB-006,MF_DTB,diem_tb,"[{""diem"": 9.25, ""he_so"": 1}, {""diem"": 7.75, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 8.5, ""... (dài 166 ký tự)",chap_nhan,7.81,ĐTB học sinh HS006
+MF_DTB-007,MF_DTB,diem_tb,"[{""diem"": 9.75, ""he_so"": 1}, {""diem"": 8.0, ""he_so"": 1}, {""diem"": 9.75, ""he_so"": 1}, {""diem"": 6.75, ""... (dài 167 ký tự)",chap_nhan,8.72,ĐTB học sinh HS007
+MF_DTB-008,MF_DTB,diem_tb,"[{""diem"": 8.25, ""he_so"": 1}, {""diem"": 6.25, ""he_so"": 1}, {""diem"": 9.0, ""he_so"": 1}, {""diem"": 7.25, ""... (dài 165 ký tự)",chap_nhan,7.19,ĐTB học sinh HS008
+MF_DTB-009,MF_DTB,diem_tb,"[{""diem"": 7.75, ""he_so"": 1}, {""diem"": 3.75, ""he_so"": 1}, {""diem"": 4.75, ""he_so"": 1}, {""diem"": 6.25, ... (dài 168 ký tự)",chap_nhan,5.64,ĐTB học sinh HS009
+MF_DTB-010,MF_DTB,diem_tb,"[{""diem"": 5.75, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 7.75, ""he_so"": 1}, {""diem"": 5.5, ""h... (dài 166 ký tự)",chap_nhan,6.25,ĐTB học sinh HS010
+MF_DTB-011,MF_DTB,diem_tb,"[{""diem"": 5.75, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 9.5, ""... (dài 166 ký tự)",chap_nhan,7.08,ĐTB học sinh HS011
+MF_DTB-012,MF_DTB,diem_tb,"[{""diem"": 7.5, ""he_so"": 1}, {""diem"": 9.0, ""he_so"": 1}, {""diem"": 8.5, ""he_so"": 1}, {""diem"": 8.75, ""he... (dài 164 ký tự)",chap_nhan,7.83,ĐTB học sinh HS012
+MF_DTB-013,MF_DTB,diem_tb,"[{""diem"": 10.0, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 8.5, ""he_so"": 1}, {""diem"": 9.5, ""he... (dài 164 ký tự)",chap_nhan,8.31,ĐTB học sinh HS013
+MF_DTB-014,MF_DTB,diem_tb,"[{""diem"": 9.5, ""he_so"": 1}, {""diem"": 7.5, ""he_so"": 1}, {""diem"": 10.0, ""he_so"": 1}, {""diem"": 7.75, ""h... (dài 165 ký tự)",chap_nhan,8.97,ĐTB học sinh HS014
+MF_DTB-015,MF_DTB,diem_tb,"[{""diem"": 3.75, ""he_so"": 1}, {""diem"": 6.25, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 5.25, ""... (dài 167 ký tự)",chap_nhan,5.56,ĐTB học sinh HS015
+MF_DTB-016,MF_DTB,diem_tb,"[{""diem"": 9.25, ""he_so"": 1}, {""diem"": 7.25, ""he_so"": 1}, {""diem"": 9.25, ""he_so"": 1}, {""diem"": 8.75, ... (dài 166 ký tự)",chap_nhan,8.44,ĐTB học sinh HS016
+MF_DTB-017,MF_DTB,diem_tb,"[{""diem"": 10.0, ""he_so"": 1}, {""diem"": 10.0, ""he_so"": 1}, {""diem"": 9.5, ""he_so"": 1}, {""diem"": 9.25, ""... (dài 167 ký tự)",chap_nhan,8.28,ĐTB học sinh HS017
+MF_DTB-018,MF_DTB,diem_tb,"[{""diem"": 7.0, ""he_so"": 1}, {""diem"": 8.75, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 4.0, ""he... (dài 164 ký tự)",chap_nhan,6.19,ĐTB học sinh HS018
+MF_DTB-019,MF_DTB,diem_tb,"[{""diem"": 8.25, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 4.0, ""he_so"": 1}, {""diem"": 5.25, ""h... (dài 165 ký tự)",chap_nhan,6.06,ĐTB học sinh HS019
+MF_DTB-020,MF_DTB,diem_tb,"[{""diem"": 5.25, ""he_so"": 1}, {""diem"": 6.0, ""he_so"": 1}, {""diem"": 7.5, ""he_so"": 1}, {""diem"": 7.75, ""h... (dài 165 ký tự)",chap_nhan,6.17,ĐTB học sinh HS020
+MF_DTB-021,MF_DTB,diem_tb,"[{""diem"": 7.25, ""he_so"": 1}, {""diem"": 6.0, ""he_so"": 1}, {""diem"": 9.0, ""he_so"": 1}, {""diem"": 6.0, ""he... (dài 164 ký tự)",chap_nhan,8.17,ĐTB học sinh HS021
+MF_DTB-022,MF_DTB,diem_tb,"[{""diem"": 5.75, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 6.5, ""he... (dài 165 ký tự)",chap_nhan,6.44,ĐTB học sinh HS022
+MF_DTB-023,MF_DTB,diem_tb,"[{""diem"": 6.25, ""he_so"": 1}, {""diem"": 5.75, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 8.0, ""... (dài 167 ký tự)",chap_nhan,7.28,ĐTB học sinh HS023
+MF_DTB-024,MF_DTB,diem_tb,"[{""diem"": 8.75, ""he_so"": 1}, {""diem"": 9.5, ""he_so"": 1}, {""diem"": 10.0, ""he_so"": 1}, {""diem"": 8.5, ""h... (dài 166 ký tự)",chap_nhan,8.89,ĐTB học sinh HS024
+MF_DTB-025,MF_DTB,diem_tb,"[{""diem"": 6.0, ""he_so"": 1}, {""diem"": 7.5, ""he_so"": 1}, {""diem"": 5.5, ""he_so"": 1}, {""diem"": 6.0, ""he_... (dài 162 ký tự)",chap_nhan,7.06,ĐTB học sinh HS025
+MF_DTB-026,MF_DTB,diem_tb,"[{""diem"": 6.5, ""he_so"": 1}, {""diem"": 6.5, ""he_so"": 1}, {""diem"": 5.25, ""he_so"": 1}, {""diem"": 4.75, ""h... (dài 166 ký tự)",chap_nhan,7.19,ĐTB học sinh HS026
+MF_DTB-027,MF_DTB,diem_tb,"[{""diem"": 5.25, ""he_so"": 1}, {""diem"": 7.25, ""he_so"": 1}, {""diem"": 8.75, ""he_so"": 1}, {""diem"": 7.25, ... (dài 166 ký tự)",chap_nhan,8.0,ĐTB học sinh HS027
+MF_DTB-028,MF_DTB,diem_tb,"[{""diem"": 7.75, ""he_so"": 1}, {""diem"": 8.5, ""he_so"": 1}, {""diem"": 5.5, ""he_so"": 1}, {""diem"": 7.25, ""h... (dài 165 ký tự)",chap_nhan,6.81,ĐTB học sinh HS028
+MF_DTB-029,MF_DTB,diem_tb,"[{""diem"": 7.75, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 3.0, ""he_so"": 1}, {""diem"": 8.5, ""h... (dài 164 ký tự)",chap_nhan,7.0,ĐTB học sinh HS029
+MF_DTB-030,MF_DTB,diem_tb,"[{""diem"": 5.75, ""he_so"": 1}, {""diem"": 7.75, ""he_so"": 1}, {""diem"": 8.0, ""he_so"": 1}, {""diem"": 8.0, ""h... (dài 165 ký tự)",chap_nhan,6.39,ĐTB học sinh HS030
+MF_DTB-031,MF_DTB,diem_tb,"[{""diem"": 7.25, ""he_so"": 1}, {""diem"": 10.0, ""he_so"": 1}, {""diem"": 8.25, ""he_so"": 1}, {""diem"": 5.75, ... (dài 168 ký tự)",chap_nhan,7.39,ĐTB học sinh HS031
+MF_DTB-032,MF_DTB,diem_tb,"[{""diem"": 7.5, ""he_so"": 1}, {""diem"": 6.25, ""he_so"": 1}, {""diem"": 7.25, ""he_so"": 1}, {""diem"": 7.75, ""... (dài 167 ký tự)",chap_nhan,6.28,ĐTB học sinh HS032
+MF_DTB-033,MF_DTB,diem_tb,"[{""diem"": 4.75, ""he_so"": 1}, {""diem"": 4.75, ""he_so"": 1}, {""diem"": 5.5, ""he_so"": 1}, {""diem"": 3.5, ""h... (dài 165 ký tự)",chap_nhan,4.53,ĐTB học sinh HS033
+MF_DTB-034,MF_DTB,diem_tb,"[{""diem"": 7.25, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 7.25, ""he_so"": 1}, {""diem"": 6.25, ""... (dài 167 ký tự)",chap_nhan,5.94,ĐTB học sinh HS034
+MF_DTB-035,MF_DTB,diem_tb,"[{""diem"": 6.25, ""he_so"": 1}, {""diem"": 6.0, ""he_so"": 1}, {""diem"": 6.0, ""he_so"": 1}, {""diem"": 8.0, ""he... (dài 163 ký tự)",chap_nhan,7.42,ĐTB học sinh HS035
+MF_DTB-036,MF_DTB,diem_tb,"[{""diem"": 6.5, ""he_so"": 1}, {""diem"": 7.0, ""he_so"": 1}, {""diem"": 4.25, ""he_so"": 1}, {""diem"": 7.75, ""h... (dài 166 ký tự)",chap_nhan,6.08,ĐTB học sinh HS036
+MF_DTB-037,MF_DTB,diem_tb,"[{""diem"": 5.25, ""he_so"": 1}, {""diem"": 4.75, ""he_so"": 1}, {""diem"": 4.25, ""he_so"": 1}, {""diem"": 5.0, ""... (dài 167 ký tự)",chap_nhan,3.5,ĐTB học sinh HS037
+MF_DTB-038,MF_DTB,diem_tb,"[{""diem"": 7.5, ""he_so"": 1}, {""diem"": 9.25, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 6.75, ""... (dài 167 ký tự)",chap_nhan,8.17,ĐTB học sinh HS038
+MF_DTB-039,MF_DTB,diem_tb,"[{""diem"": 6.0, ""he_so"": 1}, {""diem"": 6.25, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 1}, {""diem"": 6.5, ""h... (dài 164 ký tự)",chap_nhan,6.83,ĐTB học sinh HS039
+MF_DTB-040,MF_DTB,diem_tb,"[{""diem"": 5.25, ""he_so"": 1}, {""diem"": 9.25, ""he_so"": 1}, {""diem"": 6.25, ""he_so"": 1}, {""diem"": 9.0, ""... (dài 166 ký tự)",chap_nhan,7.42,ĐTB học sinh HS040
+MF_DTB-041,MF_DTB,diem_tb,"[{""diem"": 7.5, ""he_so"": 1}]",chap_nhan,7.5,Biên hợp lệ: một cột duy nhất
+MF_DTB-042,MF_DTB,diem_tb,"[{""diem"": 0, ""he_so"": 1}, {""diem"": 0, ""he_so"": 2}, {""diem"": 0, ""he_so"": 3}]",chap_nhan,0.0,Biên hợp lệ: toàn điểm 0
+MF_DTB-043,MF_DTB,diem_tb,"[{""diem"": 10, ""he_so"": 1}, {""diem"": 10, ""he_so"": 2}, {""diem"": 10, ""he_so"": 3}]",chap_nhan,10.0,Biên hợp lệ: toàn điểm 10
+MF_DTB-044,MF_DTB,diem_tb,"[{""diem"": 0, ""he_so"": 1}, {""diem"": 1, ""he_so"": 2}, {""diem"": 2, ""he_so"": 3}, {""diem"": 3, ""he_so"": 1},... (dài 1254 ký tự)",chap_nhan,4.7,Biên hợp lệ: đúng 50 cột (giới hạn trên)
+MF_DTB-045,MF_DTB,diem_tb,"[{""diem"": 8.25, ""he_so"": 1}, {""diem"": 6.75, ""he_so"": 2}]",chap_nhan,7.25,Biên hợp lệ: điểm 2 chữ số thập phân
+MV_TKB-001,MV_TKB,tkb,"""t1""",tu_choi,null,Mã ngày sai: không có thứ Nhất
+MV_TKB-002,MV_TKB,tkb,"""t7""",tu_choi,null,Mã ngày sai: thứ Bảy không học
+MV_TKB-003,MV_TKB,tkb,"""cn""",tu_choi,null,Mã ngày sai: Chủ nhật
+MV_TKB-004,MV_TKB,tkb,"""T2""",tu_choi,null,Mã ngày sai: sai chữ hoa
+MV_TKB-005,MV_TKB,tkb,""" t2""",tu_choi,null,Mã ngày sai: có khoảng trắng đầu
+MV_TKB-006,MV_TKB,tkb,"""t2 """,tu_choi,null,Mã ngày sai: có khoảng trắng cuối
+MV_TKB-007,MV_TKB,tkb,"""thứ hai""",tu_choi,null,Mã ngày sai: viết bằng chữ
+MV_TKB-008,MV_TKB,tkb,"""Thứ 2""",tu_choi,null,Mã ngày sai: viết tắt tiếng Việt
+MV_TKB-009,MV_TKB,tkb,"""2""",tu_choi,null,Mã ngày sai: chỉ có số
+MV_TKB-010,MV_TKB,tkb,"""""",tu_choi,null,Mã ngày sai: chuỗi rỗng
+MV_TKB-011,MV_TKB,tkb,"""t22""",tu_choi,null,Mã ngày sai: thừa ký tự
+MV_TKB-012,MV_TKB,tkb,"""t2' OR '1'='1""",tu_choi,null,Mã ngày sai: chuỗi kiểu chèn truy vấn
+MV_TKB-013,MV_TKB,tkb,"""ghi_chu""",tu_choi,null,Mã ngày sai: trùng khoá nội bộ của tệp dữ liệu
+MV_TKB-014,MV_TKB,tkb,"""lop""",tu_choi,null,Mã ngày sai: trùng khoá nội bộ của tệp dữ liệu
+MV_TKB-015,MV_TKB,tkb,"""xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx... (dài 10002 ký tự)",tu_choi,null,Mã ngày sai: chuỗi 10 000 ký tự
+MV_TKB-016,MV_TKB,tkb,"""t2\nt3""",tu_choi,null,Mã ngày sai: có ký tự xuống dòng
+MV_TKB-017,MV_TKB,tkb,"""🙂""",tu_choi,null,Mã ngày sai: biểu tượng cảm xúc
+MV_THI-001,MV_THI,lich_thi,"""Toán""",tu_choi,null,Mã môn sai: tên có dấu
+MV_THI-002,MV_THI,lich_thi,"""TOAN""",tu_choi,null,Mã môn sai: chữ hoa
+MV_THI-003,MV_THI,lich_thi,"""sinh""",tu_choi,null,Mã môn sai: môn không có lịch
+MV_THI-004,MV_THI,lich_thi,"""hoa""",tu_choi,null,Mã môn sai: môn không có lịch
+MV_THI-005,MV_THI,lich_thi,"""hoc_ky""",tu_choi,null,Mã môn sai: trùng khoá nội bộ
+MV_THI-006,MV_THI,lich_thi,"""toan """,tu_choi,null,Mã môn sai: khoảng trắng cuối
+MV_THI-007,MV_THI,lich_thi,"""""",tu_choi,null,Mã môn sai: chuỗi rỗng
+MV_THI-008,MV_THI,lich_thi,"""math""",tu_choi,null,Mã môn sai: tiếng Anh
+MV_THI-009,MV_THI,lich_thi,"""van hoc""",tu_choi,null,Mã môn sai: tên dài
+MV_THI-010,MV_THI,lich_thi,"""yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy... (dài 5002 ký tự)",tu_choi,null,Mã môn sai: chuỗi 5 000 ký tự
+MV_DTB-001,MV_DTB,diem_tb,[],tu_choi,null,Điểm sai: danh sách rỗng
+MV_DTB-002,MV_DTB,diem_tb,"[{""diem"": 10.01, ""he_so"": 1}]",tu_choi,null,"Điểm sai: điểm 10,01 > 10"
+MV_DTB-003,MV_DTB,diem_tb,"[{""diem"": -0.01, ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm âm
+MV_DTB-004,MV_DTB,diem_tb,"[{""diem"": 11, ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm 11
+MV_DTB-005,MV_DTB,diem_tb,"[{""diem"": 8, ""he_so"": 0}]",tu_choi,null,Điểm sai: hệ số 0 (chia cho 0)
+MV_DTB-006,MV_DTB,diem_tb,"[{""diem"": 8, ""he_so"": 4}]",tu_choi,null,Điểm sai: hệ số 4
+MV_DTB-007,MV_DTB,diem_tb,"[{""diem"": 8, ""he_so"": -1}]",tu_choi,null,Điểm sai: hệ số âm
+MV_DTB-008,MV_DTB,diem_tb,"[{""diem"": 8, ""he_so"": 1.5}]",tu_choi,null,Điểm sai: hệ số thập phân
+MV_DTB-009,MV_DTB,diem_tb,"[{""diem"": ""7,5"", ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm dùng dấu phẩy
+MV_DTB-010,MV_DTB,diem_tb,"[{""diem"": ""tám"", ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm bằng chữ
+MV_DTB-011,MV_DTB,diem_tb,"[{""diem"": null, ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm null
+MV_DTB-012,MV_DTB,diem_tb,"[{""diem"": 8}]",tu_choi,null,Điểm sai: thiếu hệ số
+MV_DTB-013,MV_DTB,diem_tb,"[{""he_so"": 1}]",tu_choi,null,Điểm sai: thiếu điểm
+MV_DTB-014,MV_DTB,diem_tb,"[{""diem"": 8, ""hs"": 1}]",tu_choi,null,Điểm sai: sai tên trường
+MV_DTB-015,MV_DTB,diem_tb,"[{""diem"": 8, ""he_so"": 1}, {""diem"": 8, ""he_so"": 1}, {""diem"": 8, ""he_so"": 1}, {""diem"": 8, ""he_so"": 1},... (dài 1275 ký tự)",tu_choi,null,Điểm sai: 51 cột (vượt giới hạn 50)
+MV_DTB-016,MV_DTB,diem_tb,"[8, 7, 9]",tu_choi,null,"Điểm sai: danh sách số trần, không có hệ số"
+MV_DTB-017,MV_DTB,diem_tb,"""8, 7, 9""",tu_choi,null,Điểm sai: chuỗi thay vì danh sách
+MV_DTB-018,MV_DTB,diem_tb,"[{""diem"": Infinity, ""he_so"": 1}]",tu_choi,null,Điểm sai: điểm vô cực
+MV_DTB-019,MV_DTB,diem_tb,"[{""diem"": 3.3, ""he_so"": 3}, {""diem"": 9.6, ""he_so"": 1}, {""diem"": 3.0, ""he_so"": 2}, {""diem"": 3.2, ""he_... (dài 190 ký tự)",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 5/7
+MV_DTB-020,MV_DTB,diem_tb,"[{""diem"": -4.3, ""he_so"": 2}, {""diem"": 6.0, ""he_so"": 3}]",tu_choi,null,Lỗi 'diem_am' ẩn ở cột 1/2
+MV_DTB-021,MV_DTB,diem_tb,"[{""diem"": 3.6, ""he_so"": 2}, {""diem"": 3.8, ""he_so"": 2}, {""diem"": 12.7, ""he_so"": 1}]",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 3/3
+MV_DTB-022,MV_DTB,diem_tb,"[{""diem"": 9.3, ""he_so"": 4}, {""diem"": 5.5, ""he_so"": 2}, {""diem"": 7.9, ""he_so"": 1}, {""diem"": 0.2, ""he_... (dài 189 ký tự)",tu_choi,null,Lỗi 'he_so' ẩn ở cột 1/7
+MV_DTB-023,MV_DTB,diem_tb,"[{""diem"": 0.4, ""he_so"": 3}, {""diem"": 71.2, ""he_so"": 2}, {""diem"": 6.3, ""he_so"": 3}, {""diem"": 3.2, ""he... (dài 163 ký tự)",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 2/6
+MV_DTB-024,MV_DTB,diem_tb,"[{""diem"": 1.5, ""he_so"": 3}, {""diem"": 9.1, ""he_so"": 2}, {""diem"": 7.1, ""he_so"": 2}, {""diem"": 9.5, ""he_... (dài 217 ký tự)",tu_choi,null,Lỗi 'diem_am' ẩn ở cột 5/8
+MV_DTB-025,MV_DTB,diem_tb,"[{""diem"": 4.1, ""he_so"": 2}, {""diem"": 8.9, ""he_so"": 2}, {""diem"": 8.1, ""he_so"": 3}, {""diem"": 7.0, ""he_... (dài 189 ký tự)",tu_choi,null,Lỗi 'he_so' ẩn ở cột 6/7
+MV_DTB-026,MV_DTB,diem_tb,"[{""diem"": 5.3, ""he_so"": 3}, {""diem"": 44.3, ""he_so"": 3}]",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 2/2
+MV_DTB-027,MV_DTB,diem_tb,"[{""diem"": 8.1, ""he_so"": 3}, {""diem"": 1.6, ""he_so"": 4}, {""diem"": 1.0, ""he_so"": 1}, {""diem"": 7.3, ""he_... (dài 162 ký tự)",tu_choi,null,Lỗi 'he_so' ẩn ở cột 2/6
+MV_DTB-028,MV_DTB,diem_tb,"[{""diem"": 3.0, ""he_so"": 2}, {""diem"": 3.6, ""he_so"": 2}, {""diem"": 1.9, ""he_so"": 3}, {""diem"": 6.3, ""he_so"": 10}]",tu_choi,null,Lỗi 'he_so' ẩn ở cột 4/4
+MV_DTB-029,MV_DTB,diem_tb,"[{""diem"": 56.4, ""he_so"": 3}, {""diem"": 1.7, ""he_so"": 3}, {""diem"": 0.3, ""he_so"": 2}, {""diem"": 5.4, ""he_so"": 1}]",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 1/4
+MV_DTB-030,MV_DTB,diem_tb,"[{""diem"": 6.4, ""he_so"": 1}, {""diem"": 8.4, ""he_so"": 1}, {""diem"": 3.7, ""he_so"": 1}, {""diem"": 33.7, ""he... (dài 190 ký tự)",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 4/7
+MV_DTB-031,MV_DTB,diem_tb,"[{""diem"": 6.5, ""he_so"": 2}, {""diem"": 4.7, ""he_so"": 2}, {""diem"": 1.2, ""he_so"": 3}, {""diem"": 2.5, ""he_so"": 5}]",tu_choi,null,Lỗi 'he_so' ẩn ở cột 4/4
+MV_DTB-032,MV_DTB,diem_tb,"[{""diem"": -1.8, ""he_so"": 1}, {""diem"": 8.1, ""he_so"": 2}]",tu_choi,null,Lỗi 'diem_am' ẩn ở cột 1/2
+MV_DTB-033,MV_DTB,diem_tb,"[{""diem"": 5.1, ""he_so"": 2}, {""diem"": 3.2, ""he_so"": 3}, {""diem"": 78.3, ""he_so"": 2}, {""diem"": 4.0, ""he... (dài 136 ký tự)",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 3/5
+MV_DTB-034,MV_DTB,diem_tb,"[{""diem"": 4.1, ""he_so"": 3}, {""diem"": 3.8, ""he_so"": 1}, {""diem"": -3.4, ""he_so"": 3}, {""diem"": 6.6, ""he_so"": 1}]",tu_choi,null,Lỗi 'diem_am' ẩn ở cột 3/4
+MV_DTB-035,MV_DTB,diem_tb,"[{""diem"": 3.2, ""he_so"": 2}, {""diem"": 2.6, ""he_so"": 4}]",tu_choi,null,Lỗi 'he_so' ẩn ở cột 2/2
+MV_DTB-036,MV_DTB,diem_tb,"[{""diem"": 9.7, ""he_so"": 3}, {""diem"": 7.7, ""he_so"": 2}, {""diem"": 70.7, ""he_so"": 2}, {""diem"": 6.3, ""he_so"": 2}]",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 3/4
+MV_DTB-037,MV_DTB,diem_tb,"[{""diem"": 1.0, ""he_so"": 2}, {""diem"": 9.1, ""he_so"": 3}, {""diem"": 9.5, ""he_so"": 3}, {""diem"": 41.8, ""he_so"": 3}]",tu_choi,null,Lỗi 'diem_cao' ẩn ở cột 4/4
+MV_DTB-038,MV_DTB,diem_tb,"[{""diem"": 0.6, ""he_so"": 2}, {""diem"": 7.2, ""he_so"": 1}, {""diem"": 2.7, ""he_so"": 3}, {""diem"": 2.5, ""he_so"": 10}]",tu_choi,null,Lỗi 'he_so' ẩn ở cột 4/4
+MS_TEP-001,MS_TEP,doc_tep,"""khong_cong_khai.txt""",tu_choi,"""S1""",Truy cập tệp: đọc thẳng tệp không công khai
+MS_TEP-002,MS_TEP,doc_tep,"""./khong_cong_khai.txt""",tu_choi,"""S1""",Truy cập tệp: tiền tố ./
+MS_TEP-003,MS_TEP,doc_tep,"""KHONG_CONG_KHAI.TXT""",tu_choi,"""S1""",Truy cập tệp: đổi chữ hoa
+MS_TEP-004,MS_TEP,doc_tep,"""../du_lieu_ngoai/bi_mat.txt""",tu_choi,"""S2""",Truy cập tệp: thoát thư mục bằng ../
+MS_TEP-005,MS_TEP,doc_tep,"""./../du_lieu_ngoai/bi_mat.txt""",tu_choi,"""S2""",Truy cập tệp: thoát thư mục bằng ./../
+MS_TEP-006,MS_TEP,doc_tep,"""../du_lieu/../du_lieu_ngoai/bi_mat.txt""",tu_choi,"""S2""",Truy cập tệp: đường vòng ../du_lieu/../
+MS_TEP-007,MS_TEP,doc_tep,"""..\\du_lieu_ngoai\\bi_mat.txt""",tu_choi,"""S2""",Truy cập tệp: dấu gạch ngược kiểu Windows
+MS_TEP-008,MS_TEP,doc_tep,"""%2e%2e/du_lieu_ngoai/bi_mat.txt""",tu_choi,"""S2""",Truy cập tệp: mã hoá URL %2e%2e
+MS_TEP-009,MS_TEP,doc_tep,"""{DUONG_DAN_TUYET_DOI_BI_MAT}""",tu_choi,"""S2""",Truy cập tệp: đường dẫn tuyệt đối (thay lúc chạy)
+MS_TIEM-001,MS_TIEM,tkb,"""t5""",chap_nhan,"""tach_ghi_chu""",Ghi chú chứa câu lệnh chèn phải được tách khỏi lời dẫn

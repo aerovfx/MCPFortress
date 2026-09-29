@@ -1,0 +1,6 @@
+{
+  "hoc_ky": "Học kỳ I (dữ liệu giả lập)",
+  "toan": {"ten_mon": "Toán", "ngay": "10/12", "gio": "07:30", "phong": "P.101", "thoi_gian_phut": 90},
+  "tin":  {"ten_mon": "Tin học", "ngay": "12/12", "gio": "07:30", "phong": "Phòng máy 1", "thoi_gian_phut": 45},
+  "van":  {"ten_mon": "Ngữ văn", "ngay": "14/12", "gio": "07:30", "phong": "P.101", "thoi_gian_phut": 90}
+}

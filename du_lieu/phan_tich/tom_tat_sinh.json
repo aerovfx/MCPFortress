@@ -1,0 +1,55 @@
+{
+  "seed": 2026,
+  "khoang_thoi_gian": "07/09/2026 – 20/12/2026",
+  "gia_dinh": {
+    "A_tham_so_dung_lan_dau": 0.55,
+    "B_tham_so_dung_lan_dau": 0.93,
+    "A_thu_lai_sau_loi": 0.25,
+    "B_thu_lai_sau_loi": 0.97,
+    "A_ao_giac_khi_rong": 0.35,
+    "B_ao_giac_khi_loi": 0.01,
+    "A_lam_theo_lenh_an": 0.15,
+    "B_lam_theo_lenh_an": 0.01,
+    "A_tac_tu_thuc_hien_tan_cong": 0.85,
+    "B_tac_tu_thuc_hien_tan_cong": 0.3,
+    "A_diem_dang_chuoi": 0.18
+  },
+  "so_dong": {
+    "hoc_sinh": 40,
+    "phien": 1409,
+    "luot_hoi": 2343,
+    "goi_cong_cu": 2205
+  },
+  "theo_phien_ban": {
+    "A": {
+      "so_hs": 20,
+      "so_luot": 1193,
+      "so_goi": 1198,
+      "ti_le_tra_loi_dung_%": 74.9,
+      "ti_le_ao_giac_%": 8.6,
+      "ti_le_goi_loi_%": 35.8,
+      "E_trung_binh": 0.24,
+      "so_luot_tan_cong": 44,
+      "tan_cong_thanh_cong": 32,
+      "lam_theo_lenh_an": 3,
+      "do_tre_trung_vi_ms": 0.611,
+      "token_vao_tb": 2782,
+      "hai_long_tb": 4.15
+    },
+    "B": {
+      "so_hs": 20,
+      "so_luot": 1150,
+      "so_goi": 1007,
+      "ti_le_tra_loi_dung_%": 98.6,
+      "ti_le_ao_giac_%": 0.6,
+      "ti_le_goi_loi_%": 15.6,
+      "E_trung_binh": 1.94,
+      "so_luot_tan_cong": 40,
+      "tan_cong_thanh_cong": 0,
+      "lam_theo_lenh_an": 1,
+      "do_tre_trung_vi_ms": 0.62,
+      "token_vao_tb": 3533,
+      "hai_long_tb": 4.55
+    }
+  }
+}

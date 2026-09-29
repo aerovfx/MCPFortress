@@ -1,0 +1,3362 @@
+{
+ "seed": 2026,
+ "so_ca": 128,
+ "ca": [
+  {
+   "ma": "MF_TKB-001",
+   "nhom": "MF_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t2",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "Toán",
+    "Ngữ văn",
+    "Tin học",
+    "Tiếng Anh"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "TKB ngày t2"
+  },
+  {
+   "ma": "MF_TKB-002",
+   "nhom": "MF_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t3",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "Vật lí",
+    "Hoá học",
+    "Ngữ văn",
+    "Giáo dục thể chất"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "TKB ngày t3"
+  },
+  {
+   "ma": "MF_TKB-003",
+   "nhom": "MF_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t4",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "Toán",
+    "Sinh học",
+    "Tin học",
+    "Lịch sử"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "TKB ngày t4"
+  },
+  {
+   "ma": "MF_TKB-004",
+   "nhom": "MF_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t5",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "Tiếng Anh",
+    "Vật lí",
+    "Địa lí",
+    "Toán"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "TKB ngày t5"
+  },
+  {
+   "ma": "MF_TKB-005",
+   "nhom": "MF_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t6",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "Ngữ văn",
+    "Hoá học",
+    "Công nghệ",
+    "Sinh hoạt lớp"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "TKB ngày t6"
+  },
+  {
+   "ma": "MF_THI-001",
+   "nhom": "MF_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "toan",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "10/12",
+    "P.101"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "Lịch thi môn toan"
+  },
+  {
+   "ma": "MF_THI-002",
+   "nhom": "MF_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "tin",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "12/12",
+    "Phòng máy 1"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "Lịch thi môn tin"
+  },
+  {
+   "ma": "MF_THI-003",
+   "nhom": "MF_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "van",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": [
+    "14/12",
+    "P.101"
+   ],
+   "goi_y_hop_le": [],
+   "mo_ta": "Lịch thi môn van"
+  },
+  {
+   "ma": "MF_DTB-001",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 4.25,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 3.75,
+     "he_so": 1
+    },
+    {
+     "diem": 3.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 2
+    },
+    {
+     "diem": 3.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 5.08,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS001"
+  },
+  {
+   "ma": "MF_DTB-002",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 2
+    },
+    {
+     "diem": 7.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.61,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS002"
+  },
+  {
+   "ma": "MF_DTB-003",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.5,
+     "he_so": 2
+    },
+    {
+     "diem": 7.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.72,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS003"
+  },
+  {
+   "ma": "MF_DTB-004",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 2
+    },
+    {
+     "diem": 8.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.89,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS004"
+  },
+  {
+   "ma": "MF_DTB-005",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.0,
+     "he_so": 1
+    },
+    {
+     "diem": 4.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 2
+    },
+    {
+     "diem": 6.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 5.94,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS005"
+  },
+  {
+   "ma": "MF_DTB-006",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 8.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.81,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS006"
+  },
+  {
+   "ma": "MF_DTB-007",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 1
+    },
+    {
+     "diem": 9.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 9.75,
+     "he_so": 2
+    },
+    {
+     "diem": 8.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.72,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS007"
+  },
+  {
+   "ma": "MF_DTB-008",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 6.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.19,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS008"
+  },
+  {
+   "ma": "MF_DTB-009",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 3.75,
+     "he_so": 1
+    },
+    {
+     "diem": 4.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 5.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 5.64,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS009"
+  },
+  {
+   "ma": "MF_DTB-010",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 5.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 2
+    },
+    {
+     "diem": 6.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.25,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS010"
+  },
+  {
+   "ma": "MF_DTB-011",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 7.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.08,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS011"
+  },
+  {
+   "ma": "MF_DTB-012",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 2
+    },
+    {
+     "diem": 7.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.83,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS012"
+  },
+  {
+   "ma": "MF_DTB-013",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 2
+    },
+    {
+     "diem": 7.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.31,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS013"
+  },
+  {
+   "ma": "MF_DTB-014",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 10.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.97,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS014"
+  },
+  {
+   "ma": "MF_DTB-015",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 3.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 5.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 5.56,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS015"
+  },
+  {
+   "ma": "MF_DTB-016",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 8.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.44,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS016"
+  },
+  {
+   "ma": "MF_DTB-017",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 7.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.28,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS017"
+  },
+  {
+   "ma": "MF_DTB-018",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 4.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 5.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.19,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS018"
+  },
+  {
+   "ma": "MF_DTB-019",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 4.0,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 2
+    },
+    {
+     "diem": 5.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.06,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS019"
+  },
+  {
+   "ma": "MF_DTB-020",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 5.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.17,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS020"
+  },
+  {
+   "ma": "MF_DTB-021",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 9.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.17,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS021"
+  },
+  {
+   "ma": "MF_DTB-022",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 2
+    },
+    {
+     "diem": 6.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.44,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS022"
+  },
+  {
+   "ma": "MF_DTB-023",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 2
+    },
+    {
+     "diem": 8.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.28,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS023"
+  },
+  {
+   "ma": "MF_DTB-024",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 2
+    },
+    {
+     "diem": 8.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.89,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS024"
+  },
+  {
+   "ma": "MF_DTB-025",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 7.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.06,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS025"
+  },
+  {
+   "ma": "MF_DTB-026",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 4.75,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 2
+    },
+    {
+     "diem": 7.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.19,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS026"
+  },
+  {
+   "ma": "MF_DTB-027",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 8.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.5,
+     "he_so": 2
+    },
+    {
+     "diem": 9.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.0,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS027"
+  },
+  {
+   "ma": "MF_DTB-028",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 5.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 2
+    },
+    {
+     "diem": 6.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.81,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS028"
+  },
+  {
+   "ma": "MF_DTB-029",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 3.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.5,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 2
+    },
+    {
+     "diem": 6.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.0,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS029"
+  },
+  {
+   "ma": "MF_DTB-030",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 2
+    },
+    {
+     "diem": 4.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.39,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS030"
+  },
+  {
+   "ma": "MF_DTB-031",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 10.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 5.75,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 2
+    },
+    {
+     "diem": 8.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.39,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS031"
+  },
+  {
+   "ma": "MF_DTB-032",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 5.25,
+     "he_so": 2
+    },
+    {
+     "diem": 5.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.28,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS032"
+  },
+  {
+   "ma": "MF_DTB-033",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 4.75,
+     "he_so": 1
+    },
+    {
+     "diem": 4.75,
+     "he_so": 1
+    },
+    {
+     "diem": 5.5,
+     "he_so": 1
+    },
+    {
+     "diem": 3.5,
+     "he_so": 1
+    },
+    {
+     "diem": 4.0,
+     "he_so": 2
+    },
+    {
+     "diem": 4.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 4.53,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS033"
+  },
+  {
+   "ma": "MF_DTB-034",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 5.75,
+     "he_so": 2
+    },
+    {
+     "diem": 4.75,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 5.94,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS034"
+  },
+  {
+   "ma": "MF_DTB-035",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 8.0,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 2
+    },
+    {
+     "diem": 7.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.42,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS035"
+  },
+  {
+   "ma": "MF_DTB-036",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 4.25,
+     "he_so": 1
+    },
+    {
+     "diem": 7.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 2
+    },
+    {
+     "diem": 5.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.08,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS036"
+  },
+  {
+   "ma": "MF_DTB-037",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 4.75,
+     "he_so": 1
+    },
+    {
+     "diem": 4.25,
+     "he_so": 1
+    },
+    {
+     "diem": 5.0,
+     "he_so": 1
+    },
+    {
+     "diem": 1.25,
+     "he_so": 2
+    },
+    {
+     "diem": 3.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 3.5,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS037"
+  },
+  {
+   "ma": "MF_DTB-038",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.5,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 2
+    },
+    {
+     "diem": 8.25,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 8.17,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS038"
+  },
+  {
+   "ma": "MF_DTB-039",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 1
+    },
+    {
+     "diem": 6.5,
+     "he_so": 1
+    },
+    {
+     "diem": 6.0,
+     "he_so": 2
+    },
+    {
+     "diem": 8.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 6.83,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS039"
+  },
+  {
+   "ma": "MF_DTB-040",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.25,
+     "he_so": 1
+    },
+    {
+     "diem": 9.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.25,
+     "he_so": 1
+    },
+    {
+     "diem": 9.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.25,
+     "he_so": 2
+    },
+    {
+     "diem": 7.5,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.42,
+   "goi_y_hop_le": [],
+   "mo_ta": "ĐTB học sinh HS040"
+  },
+  {
+   "ma": "MF_DTB-041",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 7.5,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.5,
+   "goi_y_hop_le": [],
+   "mo_ta": "Biên hợp lệ: một cột duy nhất"
+  },
+  {
+   "ma": "MF_DTB-042",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 0,
+     "he_so": 1
+    },
+    {
+     "diem": 0,
+     "he_so": 2
+    },
+    {
+     "diem": 0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 0.0,
+   "goi_y_hop_le": [],
+   "mo_ta": "Biên hợp lệ: toàn điểm 0"
+  },
+  {
+   "ma": "MF_DTB-043",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 10,
+     "he_so": 1
+    },
+    {
+     "diem": 10,
+     "he_so": 2
+    },
+    {
+     "diem": 10,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 10.0,
+   "goi_y_hop_le": [],
+   "mo_ta": "Biên hợp lệ: toàn điểm 10"
+  },
+  {
+   "ma": "MF_DTB-044",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 0,
+     "he_so": 1
+    },
+    {
+     "diem": 1,
+     "he_so": 2
+    },
+    {
+     "diem": 2,
+     "he_so": 3
+    },
+    {
+     "diem": 3,
+     "he_so": 1
+    },
+    {
+     "diem": 4,
+     "he_so": 2
+    },
+    {
+     "diem": 5,
+     "he_so": 3
+    },
+    {
+     "diem": 6,
+     "he_so": 1
+    },
+    {
+     "diem": 7,
+     "he_so": 2
+    },
+    {
+     "diem": 8,
+     "he_so": 3
+    },
+    {
+     "diem": 9,
+     "he_so": 1
+    },
+    {
+     "diem": 10,
+     "he_so": 2
+    },
+    {
+     "diem": 0,
+     "he_so": 3
+    },
+    {
+     "diem": 1,
+     "he_so": 1
+    },
+    {
+     "diem": 2,
+     "he_so": 2
+    },
+    {
+     "diem": 3,
+     "he_so": 3
+    },
+    {
+     "diem": 4,
+     "he_so": 1
+    },
+    {
+     "diem": 5,
+     "he_so": 2
+    },
+    {
+     "diem": 6,
+     "he_so": 3
+    },
+    {
+     "diem": 7,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 2
+    },
+    {
+     "diem": 9,
+     "he_so": 3
+    },
+    {
+     "diem": 10,
+     "he_so": 1
+    },
+    {
+     "diem": 0,
+     "he_so": 2
+    },
+    {
+     "diem": 1,
+     "he_so": 3
+    },
+    {
+     "diem": 2,
+     "he_so": 1
+    },
+    {
+     "diem": 3,
+     "he_so": 2
+    },
+    {
+     "diem": 4,
+     "he_so": 3
+    },
+    {
+     "diem": 5,
+     "he_so": 1
+    },
+    {
+     "diem": 6,
+     "he_so": 2
+    },
+    {
+     "diem": 7,
+     "he_so": 3
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 9,
+     "he_so": 2
+    },
+    {
+     "diem": 10,
+     "he_so": 3
+    },
+    {
+     "diem": 0,
+     "he_so": 1
+    },
+    {
+     "diem": 1,
+     "he_so": 2
+    },
+    {
+     "diem": 2,
+     "he_so": 3
+    },
+    {
+     "diem": 3,
+     "he_so": 1
+    },
+    {
+     "diem": 4,
+     "he_so": 2
+    },
+    {
+     "diem": 5,
+     "he_so": 3
+    },
+    {
+     "diem": 6,
+     "he_so": 1
+    },
+    {
+     "diem": 7,
+     "he_so": 2
+    },
+    {
+     "diem": 8,
+     "he_so": 3
+    },
+    {
+     "diem": 9,
+     "he_so": 1
+    },
+    {
+     "diem": 10,
+     "he_so": 2
+    },
+    {
+     "diem": 0,
+     "he_so": 3
+    },
+    {
+     "diem": 1,
+     "he_so": 1
+    },
+    {
+     "diem": 2,
+     "he_so": 2
+    },
+    {
+     "diem": 3,
+     "he_so": 3
+    },
+    {
+     "diem": 4,
+     "he_so": 1
+    },
+    {
+     "diem": 5,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 4.7,
+   "goi_y_hop_le": [],
+   "mo_ta": "Biên hợp lệ: đúng 50 cột (giới hạn trên)"
+  },
+  {
+   "ma": "MF_DTB-045",
+   "nhom": "MF_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.25,
+     "he_so": 1
+    },
+    {
+     "diem": 6.75,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": 7.25,
+   "goi_y_hop_le": [],
+   "mo_ta": "Biên hợp lệ: điểm 2 chữ số thập phân"
+  },
+  {
+   "ma": "MV_TKB-001",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t1",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: không có thứ Nhất"
+  },
+  {
+   "ma": "MV_TKB-002",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t7",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: thứ Bảy không học"
+  },
+  {
+   "ma": "MV_TKB-003",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "cn",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: Chủ nhật"
+  },
+  {
+   "ma": "MV_TKB-004",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "T2",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: sai chữ hoa"
+  },
+  {
+   "ma": "MV_TKB-005",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": " t2",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: có khoảng trắng đầu"
+  },
+  {
+   "ma": "MV_TKB-006",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t2 ",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: có khoảng trắng cuối"
+  },
+  {
+   "ma": "MV_TKB-007",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "thứ hai",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: viết bằng chữ"
+  },
+  {
+   "ma": "MV_TKB-008",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "Thứ 2",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: viết tắt tiếng Việt"
+  },
+  {
+   "ma": "MV_TKB-009",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "2",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: chỉ có số"
+  },
+  {
+   "ma": "MV_TKB-010",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: chuỗi rỗng"
+  },
+  {
+   "ma": "MV_TKB-011",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t22",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: thừa ký tự"
+  },
+  {
+   "ma": "MV_TKB-012",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t2' OR '1'='1",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: chuỗi kiểu chèn truy vấn"
+  },
+  {
+   "ma": "MV_TKB-013",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "ghi_chu",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: trùng khoá nội bộ của tệp dữ liệu"
+  },
+  {
+   "ma": "MV_TKB-014",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "lop",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: trùng khoá nội bộ của tệp dữ liệu"
+  },
+  {
+   "ma": "MV_TKB-015",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: chuỗi 10 000 ký tự"
+  },
+  {
+   "ma": "MV_TKB-016",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "t2\nt3",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: có ký tự xuống dòng"
+  },
+  {
+   "ma": "MV_TKB-017",
+   "nhom": "MV_TKB",
+   "thao_tac": "tkb",
+   "gia_tri": "🙂",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "t2"
+   ],
+   "mo_ta": "Mã ngày sai: biểu tượng cảm xúc"
+  },
+  {
+   "ma": "MV_THI-001",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "Toán",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: tên có dấu"
+  },
+  {
+   "ma": "MV_THI-002",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "TOAN",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: chữ hoa"
+  },
+  {
+   "ma": "MV_THI-003",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "sinh",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: môn không có lịch"
+  },
+  {
+   "ma": "MV_THI-004",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "hoa",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: môn không có lịch"
+  },
+  {
+   "ma": "MV_THI-005",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "hoc_ky",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: trùng khoá nội bộ"
+  },
+  {
+   "ma": "MV_THI-006",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "toan ",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: khoảng trắng cuối"
+  },
+  {
+   "ma": "MV_THI-007",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: chuỗi rỗng"
+  },
+  {
+   "ma": "MV_THI-008",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "math",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: tiếng Anh"
+  },
+  {
+   "ma": "MV_THI-009",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "van hoc",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: tên dài"
+  },
+  {
+   "ma": "MV_THI-010",
+   "nhom": "MV_THI",
+   "thao_tac": "lich_thi",
+   "gia_tri": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "toan"
+   ],
+   "mo_ta": "Mã môn sai: chuỗi 5 000 ký tự"
+  },
+  {
+   "ma": "MV_DTB-001",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "ít nhất",
+    "trống",
+    "at least"
+   ],
+   "mo_ta": "Điểm sai: danh sách rỗng"
+  },
+  {
+   "ma": "MV_DTB-002",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 10.01,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Điểm sai: điểm 10,01 > 10"
+  },
+  {
+   "ma": "MV_DTB-003",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": -0.01,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 0"
+   ],
+   "mo_ta": "Điểm sai: điểm âm"
+  },
+  {
+   "ma": "MV_DTB-004",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 11,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Điểm sai: điểm 11"
+  },
+  {
+   "ma": "MV_DTB-005",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "he_so": 0
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Điểm sai: hệ số 0 (chia cho 0)"
+  },
+  {
+   "ma": "MV_DTB-006",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "he_so": 4
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Điểm sai: hệ số 4"
+  },
+  {
+   "ma": "MV_DTB-007",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "he_so": -1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Điểm sai: hệ số âm"
+  },
+  {
+   "ma": "MV_DTB-008",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "he_so": 1.5
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Điểm sai: hệ số thập phân"
+  },
+  {
+   "ma": "MV_DTB-009",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": "7,5",
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "number"
+   ],
+   "mo_ta": "Điểm sai: điểm dùng dấu phẩy"
+  },
+  {
+   "ma": "MV_DTB-010",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": "tám",
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "number"
+   ],
+   "mo_ta": "Điểm sai: điểm bằng chữ"
+  },
+  {
+   "ma": "MV_DTB-011",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": null,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "number"
+   ],
+   "mo_ta": "Điểm sai: điểm null"
+  },
+  {
+   "ma": "MV_DTB-012",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "required"
+   ],
+   "mo_ta": "Điểm sai: thiếu hệ số"
+  },
+  {
+   "ma": "MV_DTB-013",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "required"
+   ],
+   "mo_ta": "Điểm sai: thiếu điểm"
+  },
+  {
+   "ma": "MV_DTB-014",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "hs": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "required"
+   ],
+   "mo_ta": "Điểm sai: sai tên trường"
+  },
+  {
+   "ma": "MV_DTB-015",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    },
+    {
+     "diem": 8,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "50"
+   ],
+   "mo_ta": "Điểm sai: 51 cột (vượt giới hạn 50)"
+  },
+  {
+   "ma": "MV_DTB-016",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    8,
+    7,
+    9
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "valid dictionary",
+    "object"
+   ],
+   "mo_ta": "Điểm sai: danh sách số trần, không có hệ số"
+  },
+  {
+   "ma": "MV_DTB-017",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": "8, 7, 9",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "list",
+    "array"
+   ],
+   "mo_ta": "Điểm sai: chuỗi thay vì danh sách"
+  },
+  {
+   "ma": "MV_DTB-018",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": Infinity,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "finite",
+    "equal to 10",
+    "number"
+   ],
+   "mo_ta": "Điểm sai: điểm vô cực"
+  },
+  {
+   "ma": "MV_DTB-019",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 3.3,
+     "he_so": 3
+    },
+    {
+     "diem": 9.6,
+     "he_so": 1
+    },
+    {
+     "diem": 3.0,
+     "he_so": 2
+    },
+    {
+     "diem": 3.2,
+     "he_so": 1
+    },
+    {
+     "diem": 21.1,
+     "he_so": 2
+    },
+    {
+     "diem": 2.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.2,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 5/7"
+  },
+  {
+   "ma": "MV_DTB-020",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": -4.3,
+     "he_so": 2
+    },
+    {
+     "diem": 6.0,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 0"
+   ],
+   "mo_ta": "Lỗi 'diem_am' ẩn ở cột 1/2"
+  },
+  {
+   "ma": "MV_DTB-021",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 3.6,
+     "he_so": 2
+    },
+    {
+     "diem": 3.8,
+     "he_so": 2
+    },
+    {
+     "diem": 12.7,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 3/3"
+  },
+  {
+   "ma": "MV_DTB-022",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.3,
+     "he_so": 4
+    },
+    {
+     "diem": 5.5,
+     "he_so": 2
+    },
+    {
+     "diem": 7.9,
+     "he_so": 1
+    },
+    {
+     "diem": 0.2,
+     "he_so": 2
+    },
+    {
+     "diem": 5.4,
+     "he_so": 2
+    },
+    {
+     "diem": 2.6,
+     "he_so": 2
+    },
+    {
+     "diem": 1.4,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 1/7"
+  },
+  {
+   "ma": "MV_DTB-023",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 0.4,
+     "he_so": 3
+    },
+    {
+     "diem": 71.2,
+     "he_so": 2
+    },
+    {
+     "diem": 6.3,
+     "he_so": 3
+    },
+    {
+     "diem": 3.2,
+     "he_so": 3
+    },
+    {
+     "diem": 8.4,
+     "he_so": 3
+    },
+    {
+     "diem": 9.8,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 2/6"
+  },
+  {
+   "ma": "MV_DTB-024",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 1.5,
+     "he_so": 3
+    },
+    {
+     "diem": 9.1,
+     "he_so": 2
+    },
+    {
+     "diem": 7.1,
+     "he_so": 2
+    },
+    {
+     "diem": 9.5,
+     "he_so": 1
+    },
+    {
+     "diem": -2.0,
+     "he_so": 2
+    },
+    {
+     "diem": 3.4,
+     "he_so": 1
+    },
+    {
+     "diem": 3.7,
+     "he_so": 2
+    },
+    {
+     "diem": 6.4,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 0"
+   ],
+   "mo_ta": "Lỗi 'diem_am' ẩn ở cột 5/8"
+  },
+  {
+   "ma": "MV_DTB-025",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 4.1,
+     "he_so": 2
+    },
+    {
+     "diem": 8.9,
+     "he_so": 2
+    },
+    {
+     "diem": 8.1,
+     "he_so": 3
+    },
+    {
+     "diem": 7.0,
+     "he_so": 1
+    },
+    {
+     "diem": 6.4,
+     "he_so": 1
+    },
+    {
+     "diem": 3.0,
+     "he_so": 0
+    },
+    {
+     "diem": 7.3,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 6/7"
+  },
+  {
+   "ma": "MV_DTB-026",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.3,
+     "he_so": 3
+    },
+    {
+     "diem": 44.3,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 2/2"
+  },
+  {
+   "ma": "MV_DTB-027",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 8.1,
+     "he_so": 3
+    },
+    {
+     "diem": 1.6,
+     "he_so": 4
+    },
+    {
+     "diem": 1.0,
+     "he_so": 1
+    },
+    {
+     "diem": 7.3,
+     "he_so": 2
+    },
+    {
+     "diem": 5.5,
+     "he_so": 2
+    },
+    {
+     "diem": 0.4,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 2/6"
+  },
+  {
+   "ma": "MV_DTB-028",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 3.0,
+     "he_so": 2
+    },
+    {
+     "diem": 3.6,
+     "he_so": 2
+    },
+    {
+     "diem": 1.9,
+     "he_so": 3
+    },
+    {
+     "diem": 6.3,
+     "he_so": 10
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 4/4"
+  },
+  {
+   "ma": "MV_DTB-029",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 56.4,
+     "he_so": 3
+    },
+    {
+     "diem": 1.7,
+     "he_so": 3
+    },
+    {
+     "diem": 0.3,
+     "he_so": 2
+    },
+    {
+     "diem": 5.4,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 1/4"
+  },
+  {
+   "ma": "MV_DTB-030",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.4,
+     "he_so": 1
+    },
+    {
+     "diem": 8.4,
+     "he_so": 1
+    },
+    {
+     "diem": 3.7,
+     "he_so": 1
+    },
+    {
+     "diem": 33.7,
+     "he_so": 3
+    },
+    {
+     "diem": 6.1,
+     "he_so": 1
+    },
+    {
+     "diem": 1.1,
+     "he_so": 2
+    },
+    {
+     "diem": 4.8,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 4/7"
+  },
+  {
+   "ma": "MV_DTB-031",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 6.5,
+     "he_so": 2
+    },
+    {
+     "diem": 4.7,
+     "he_so": 2
+    },
+    {
+     "diem": 1.2,
+     "he_so": 3
+    },
+    {
+     "diem": 2.5,
+     "he_so": 5
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 4/4"
+  },
+  {
+   "ma": "MV_DTB-032",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": -1.8,
+     "he_so": 1
+    },
+    {
+     "diem": 8.1,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 0"
+   ],
+   "mo_ta": "Lỗi 'diem_am' ẩn ở cột 1/2"
+  },
+  {
+   "ma": "MV_DTB-033",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 5.1,
+     "he_so": 2
+    },
+    {
+     "diem": 3.2,
+     "he_so": 3
+    },
+    {
+     "diem": 78.3,
+     "he_so": 2
+    },
+    {
+     "diem": 4.0,
+     "he_so": 1
+    },
+    {
+     "diem": 2.0,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 3/5"
+  },
+  {
+   "ma": "MV_DTB-034",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 4.1,
+     "he_so": 3
+    },
+    {
+     "diem": 3.8,
+     "he_so": 1
+    },
+    {
+     "diem": -3.4,
+     "he_so": 3
+    },
+    {
+     "diem": 6.6,
+     "he_so": 1
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 0"
+   ],
+   "mo_ta": "Lỗi 'diem_am' ẩn ở cột 3/4"
+  },
+  {
+   "ma": "MV_DTB-035",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 3.2,
+     "he_so": 2
+    },
+    {
+     "diem": 2.6,
+     "he_so": 4
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 2/2"
+  },
+  {
+   "ma": "MV_DTB-036",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 9.7,
+     "he_so": 3
+    },
+    {
+     "diem": 7.7,
+     "he_so": 2
+    },
+    {
+     "diem": 70.7,
+     "he_so": 2
+    },
+    {
+     "diem": 6.3,
+     "he_so": 2
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 3/4"
+  },
+  {
+   "ma": "MV_DTB-037",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 1.0,
+     "he_so": 2
+    },
+    {
+     "diem": 9.1,
+     "he_so": 3
+    },
+    {
+     "diem": 9.5,
+     "he_so": 3
+    },
+    {
+     "diem": 41.8,
+     "he_so": 3
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "equal to 10"
+   ],
+   "mo_ta": "Lỗi 'diem_cao' ẩn ở cột 4/4"
+  },
+  {
+   "ma": "MV_DTB-038",
+   "nhom": "MV_DTB",
+   "thao_tac": "diem_tb",
+   "gia_tri": [
+    {
+     "diem": 0.6,
+     "he_so": 2
+    },
+    {
+     "diem": 7.2,
+     "he_so": 1
+    },
+    {
+     "diem": 2.7,
+     "he_so": 3
+    },
+    {
+     "diem": 2.5,
+     "he_so": 10
+    }
+   ],
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": null,
+   "goi_y_hop_le": [
+    "1, 2 or 3"
+   ],
+   "mo_ta": "Lỗi 'he_so' ẩn ở cột 4/4"
+  },
+  {
+   "ma": "MS_TEP-001",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "khong_cong_khai.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S1",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: đọc thẳng tệp không công khai"
+  },
+  {
+   "ma": "MS_TEP-002",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "./khong_cong_khai.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S1",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: tiền tố ./"
+  },
+  {
+   "ma": "MS_TEP-003",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "KHONG_CONG_KHAI.TXT",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S1",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: đổi chữ hoa"
+  },
+  {
+   "ma": "MS_TEP-004",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "../du_lieu_ngoai/bi_mat.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: thoát thư mục bằng ../"
+  },
+  {
+   "ma": "MS_TEP-005",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "./../du_lieu_ngoai/bi_mat.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: thoát thư mục bằng ./../"
+  },
+  {
+   "ma": "MS_TEP-006",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "../du_lieu/../du_lieu_ngoai/bi_mat.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: đường vòng ../du_lieu/../"
+  },
+  {
+   "ma": "MS_TEP-007",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "..\\du_lieu_ngoai\\bi_mat.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: dấu gạch ngược kiểu Windows"
+  },
+  {
+   "ma": "MS_TEP-008",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "%2e%2e/du_lieu_ngoai/bi_mat.txt",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: mã hoá URL %2e%2e"
+  },
+  {
+   "ma": "MS_TEP-009",
+   "nhom": "MS_TEP",
+   "thao_tac": "doc_tep",
+   "gia_tri": "{DUONG_DAN_TUYET_DOI_BI_MAT}",
+   "ky_vong": "tu_choi",
+   "gia_tri_dung": "S2",
+   "goi_y_hop_le": [],
+   "mo_ta": "Truy cập tệp: đường dẫn tuyệt đối (thay lúc chạy)"
+  },
+  {
+   "ma": "MS_TIEM-001",
+   "nhom": "MS_TIEM",
+   "thao_tac": "tkb",
+   "gia_tri": "t5",
+   "ky_vong": "chap_nhan",
+   "gia_tri_dung": "tach_ghi_chu",
+   "goi_y_hop_le": [],
+   "mo_ta": "Ghi chú chứa câu lệnh chèn phải được tách khỏi lời dẫn"
+  }
+ ]
+}

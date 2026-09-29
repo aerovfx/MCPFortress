@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+ket_qua/*
+!ket_qua/.gitkeep
+nhat_ky/*
+!nhat_ky/.gitkeep
+du_lieu/ghi_chu_moi.txt
