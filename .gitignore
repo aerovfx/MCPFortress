@@ -2,6 +2,10 @@ __pycache__/
 .venv/
 ket_qua/*
 !ket_qua/.gitkeep
+!ket_qua/bang_chung_thoat_thu_muc_S1_S2.csv
+!ket_qua/so_lieu_tho_20260927_100558.csv
+!ket_qua/tong_hop_20260927_100558.json
+!ket_qua/bang_ket_qua_20260927_100558.md
 nhat_ky/*
 !nhat_ky/.gitkeep
 du_lieu/ghi_chu_moi.txt

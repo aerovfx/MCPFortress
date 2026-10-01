@@ -298,6 +298,7 @@ pre.src code { display: block; white-space: pre; }
     <nav class="nav">
       <a href="#video">Video</a>
       <a href="#van-de" class="opt">Vấn đề</a>
+      <a href="#bang-chung">Bằng chứng</a>
       <a href="#nguyen-tac" class="opt">Nguyên tắc</a>
       <a href="#ket-qua">Kết quả</a>
       <a href="#chay-thu">Chạy thử</a>
@@ -361,6 +362,63 @@ pre.src code { display: block; white-space: pre; }
           <p>Đọc tệp theo tên người gọi đưa vào cho phép <code>../</code> thoát thư mục; ghi chú chứa “Bỏ qua mọi lệnh trước đó…” bị AI hiểu nhầm là mệnh lệnh.</p>
         </div>
       </div>
+    </div>
+  </section>
+
+  <section id="bang-chung">
+    <div class="wrap">
+      <h2>Bằng chứng: máy chủ A đọc được tệp nằm ngoài thư mục dữ liệu</h2>
+      <p class="sub">Nhóm đặt một <b>tệp mồi</b> ở ngoài thư mục dữ liệu, bên trong có một chuỗi đánh dấu duy nhất. Nếu chuỗi đó xuất hiện trong câu trả lời của máy chủ thì chắc chắn máy chủ đã đọc tệp ngoài phạm vi cho phép — không phải suy đoán, chỉ cần nhìn chuỗi.</p>
+
+      <div class="card" style="margin-bottom:18px">
+        <h3>Tệp mồi <code>du_lieu_ngoai/bi_mat.txt</code> — nằm ngoài <code>du_lieu/</code></h3>
+        <pre>[MA_KIEM_TRA_S2] Tệp nằm NGOÀI thư mục dữ liệu – văn bản vô hại để kiểm thử lỗi
+thoát thư mục (../). Nếu nội dung này xuất hiện thì máy chủ có lỗ hổng path traversal.</pre>
+      </div>
+
+      <div class="grid g2">
+        <div class="card">
+          <span class="tag a">Phiên bản A · ca kiểm thử S2</span>
+          <h3>Host gửi</h3>
+          <pre>doc_tai_lieu(ten_file="../du_lieu_ngoai/bi_mat.txt")</pre>
+          <h3>Máy chủ trả về</h3>
+          <pre>[MA_KIEM_TRA_S2] Tệp nằm NGOÀI thư mục dữ liệu – văn bản
+vô hại để kiểm thử lỗi thoát thư mục (../)…</pre>
+          <p><span class="no">Không đạt</span> &nbsp;Chuỗi đánh dấu xuất hiện: nội dung tệp ngoài thư mục đã bị trả nguyên văn cho bên gọi.</p>
+        </div>
+        <div class="card">
+          <span class="tag b">Phiên bản B · cùng ca S2</span>
+          <h3>Host gửi</h3>
+          <pre>read_resource(
+  "lop://thoi-khoa-bieu/../../du_lieu_ngoai/bi_mat.txt")</pre>
+          <h3>Máy chủ trả về</h3>
+          <pre>Unknown resource:
+lop://thoi-khoa-bieu/../../du_lieu_ngoai/bi_mat.txt</pre>
+          <p><span class="ok">Đạt</span> &nbsp;Bị từ chối ngay, không đọc tệp, không có chuỗi đánh dấu.</p>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:18px">
+        <h3>Nguyên nhân nằm ở đúng một dòng trong <code>server_a.py</code></h3>
+        <pre>@server.tool()
+def doc_tai_lieu(ten_file: str):
+    """Đọc tài liệu."""
+    with open(os.path.join(THU_MUC, ten_file), encoding="utf-8") as f:
+        return f.read()</pre>
+        <p><code>os.path.join(THU_MUC, "../du_lieu_ngoai/bi_mat.txt")</code> vẫn trỏ ra ngoài <code>THU_MUC</code>. Hàm nhận thẳng tên tệp do bên gọi đưa vào, không đối chiếu danh sách cho phép, không chuẩn hoá đường dẫn — nên <code>../</code> đi ra ngoài tự do.</p>
+        <p>Phiên bản B bỏ hẳn tham số tên tệp. Mỗi tài liệu là một địa chỉ cố định <code>lop://…</code>; địa chỉ không có trong danh sách thì bị trả <code>ResourceNotFoundError</code> trước khi chạm tới ổ đĩa. Không còn chỗ nào để chèn <code>../</code>.</p>
+      </div>
+
+      <div class="note" style="margin-top:16px">
+        <b>Lặp lại được, không phải một lần may rủi.</b> Hiện tượng xảy ra ở <b>23/23 lần chạy</b> đã ghi nhận, cho cả ca S1 (tệp nằm trong thư mục dữ liệu nhưng ngoài danh sách cho phép) lẫn ca S2 (thoát thư mục bằng <code>../</code>). Phiên bản B chặn cả hai ở <b>23/23 lần</b>.
+        Kiểm chứng: <a href="https://github.com/aerovfx/MCPFortress/blob/main/ket_qua/bang_chung_thoat_thu_muc_S1_S2.csv">bảng tổng hợp 23 lần chạy</a> ·
+        <a href="https://github.com/aerovfx/MCPFortress/blob/main/ket_qua/so_lieu_tho_20260927_100558.csv">số liệu thô một lần chạy đầy đủ</a> ·
+        <a href="https://github.com/aerovfx/MCPFortress/blob/main/server_a.py">server_a.py</a> ·
+        <a href="https://github.com/aerovfx/MCPFortress/blob/main/run_tests.py">run_tests.py</a> ·
+        <a href="https://github.com/aerovfx/MCPFortress/blob/main/du_lieu_ngoai/bi_mat.txt">bi_mat.txt</a>
+      </div>
+
+      <p class="sub" style="margin-top:16px">Tệp mồi chỉ chứa văn bản vô hại do nhóm tự tạo. Toàn bộ dữ liệu trong dự án là dữ liệu giả lập của một lớp 11, không có thông tin cá nhân thật; hai máy chủ chỉ chạy trong máy, không mở cổng mạng.</p>
     </div>
   </section>
 
