@@ -2,6 +2,8 @@
 
 🌐 **Trang giới thiệu dự án:** https://aerovfx.github.io/MCPFortress/
 
+🎬 **Video giới thiệu (2:42):** https://aerovfx.github.io/MCPFortress/#video
+
 Mã nguồn đi kèm báo cáo KHKT *"Thiết kế và kiểm thử máy chủ MCP tin cậy, an toàn cho tác tử AI tra cứu thông tin học tập ở trường THPT"*.
 Hai phiên bản máy chủ Model Context Protocol (MCP) có cùng chức năng (thời khoá biểu, lịch thi, điểm trung bình) chạy trên **dữ liệu giả lập**, và một bộ **24 ca kiểm thử tự động** để so sánh.
 
