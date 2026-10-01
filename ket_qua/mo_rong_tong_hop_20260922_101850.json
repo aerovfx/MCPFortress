@@ -1,0 +1,644 @@
+{
+ "moc": "20260922_101850",
+ "seed": 2026,
+ "so_ca": 128,
+ "so_lan": 3,
+ "theo_lan": [
+  {
+   "A": {
+    "so_luot": 128,
+    "dat": 76,
+    "ti_le_dat_%": 59.4,
+    "E_tb_0_2": 0.03,
+    "so_lan_ro_ri": 7,
+    "T_tb_ms": 0.377,
+    "T_trung_vi_ms": 0.253,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 2,
+      "ti_le_%": 22.2
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 0,
+      "ti_le_%": 0.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 11,
+      "ti_le_%": 28.9
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 0,
+      "ti_le_%": 0.0
+     }
+    },
+    "ca_khong_dat": [
+     "MS_TEP-001",
+     "MS_TEP-002",
+     "MS_TEP-003",
+     "MS_TEP-004",
+     "MS_TEP-005",
+     "MS_TEP-006",
+     "MS_TEP-009",
+     "MS_TIEM-001",
+     "MV_DTB-002",
+     "MV_DTB-003",
+     "MV_DTB-004",
+     "MV_DTB-006",
+     "MV_DTB-007",
+     "MV_DTB-008",
+     "MV_DTB-015",
+     "MV_DTB-019",
+     "MV_DTB-020",
+     "MV_DTB-021",
+     "MV_DTB-022",
+     "MV_DTB-023",
+     "MV_DTB-024",
+     "MV_DTB-025",
+     "MV_DTB-026",
+     "MV_DTB-027",
+     "MV_DTB-028",
+     "MV_DTB-029",
+     "MV_DTB-030",
+     "MV_DTB-031",
+     "MV_DTB-032",
+     "MV_DTB-033",
+     "MV_DTB-034",
+     "MV_DTB-035",
+     "MV_DTB-036",
+     "MV_DTB-037",
+     "MV_DTB-038",
+     "MV_TKB-001",
+     "MV_TKB-002",
+     "MV_TKB-003",
+     "MV_TKB-004",
+     "MV_TKB-005",
+     "MV_TKB-006",
+     "MV_TKB-007",
+     "MV_TKB-008",
+     "MV_TKB-009",
+     "MV_TKB-010",
+     "MV_TKB-011",
+     "MV_TKB-012",
+     "MV_TKB-013",
+     "MV_TKB-014",
+     "MV_TKB-015",
+     "MV_TKB-016",
+     "MV_TKB-017"
+    ]
+   },
+   "B": {
+    "so_luot": 128,
+    "dat": 128,
+    "ti_le_dat_%": 100.0,
+    "E_tb_0_2": 2,
+    "so_lan_ro_ri": 0,
+    "T_tb_ms": 0.48,
+    "T_trung_vi_ms": 0.136,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 9,
+      "ti_le_%": 100.0
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 1,
+      "ti_le_%": 100.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 38,
+      "ti_le_%": 100.0
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 17,
+      "ti_le_%": 100.0
+     }
+    },
+    "ca_khong_dat": []
+   }
+  },
+  {
+   "A": {
+    "so_luot": 128,
+    "dat": 76,
+    "ti_le_dat_%": 59.4,
+    "E_tb_0_2": 0.03,
+    "so_lan_ro_ri": 7,
+    "T_tb_ms": 0.354,
+    "T_trung_vi_ms": 0.238,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 2,
+      "ti_le_%": 22.2
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 0,
+      "ti_le_%": 0.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 11,
+      "ti_le_%": 28.9
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 0,
+      "ti_le_%": 0.0
+     }
+    },
+    "ca_khong_dat": [
+     "MS_TEP-001",
+     "MS_TEP-002",
+     "MS_TEP-003",
+     "MS_TEP-004",
+     "MS_TEP-005",
+     "MS_TEP-006",
+     "MS_TEP-009",
+     "MS_TIEM-001",
+     "MV_DTB-002",
+     "MV_DTB-003",
+     "MV_DTB-004",
+     "MV_DTB-006",
+     "MV_DTB-007",
+     "MV_DTB-008",
+     "MV_DTB-015",
+     "MV_DTB-019",
+     "MV_DTB-020",
+     "MV_DTB-021",
+     "MV_DTB-022",
+     "MV_DTB-023",
+     "MV_DTB-024",
+     "MV_DTB-025",
+     "MV_DTB-026",
+     "MV_DTB-027",
+     "MV_DTB-028",
+     "MV_DTB-029",
+     "MV_DTB-030",
+     "MV_DTB-031",
+     "MV_DTB-032",
+     "MV_DTB-033",
+     "MV_DTB-034",
+     "MV_DTB-035",
+     "MV_DTB-036",
+     "MV_DTB-037",
+     "MV_DTB-038",
+     "MV_TKB-001",
+     "MV_TKB-002",
+     "MV_TKB-003",
+     "MV_TKB-004",
+     "MV_TKB-005",
+     "MV_TKB-006",
+     "MV_TKB-007",
+     "MV_TKB-008",
+     "MV_TKB-009",
+     "MV_TKB-010",
+     "MV_TKB-011",
+     "MV_TKB-012",
+     "MV_TKB-013",
+     "MV_TKB-014",
+     "MV_TKB-015",
+     "MV_TKB-016",
+     "MV_TKB-017"
+    ]
+   },
+   "B": {
+    "so_luot": 128,
+    "dat": 128,
+    "ti_le_dat_%": 100.0,
+    "E_tb_0_2": 2,
+    "so_lan_ro_ri": 0,
+    "T_tb_ms": 0.358,
+    "T_trung_vi_ms": 0.129,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 9,
+      "ti_le_%": 100.0
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 1,
+      "ti_le_%": 100.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 38,
+      "ti_le_%": 100.0
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 17,
+      "ti_le_%": 100.0
+     }
+    },
+    "ca_khong_dat": []
+   }
+  },
+  {
+   "A": {
+    "so_luot": 128,
+    "dat": 76,
+    "ti_le_dat_%": 59.4,
+    "E_tb_0_2": 0.03,
+    "so_lan_ro_ri": 7,
+    "T_tb_ms": 0.347,
+    "T_trung_vi_ms": 0.24,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 2,
+      "ti_le_%": 22.2
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 0,
+      "ti_le_%": 0.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 11,
+      "ti_le_%": 28.9
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 0,
+      "ti_le_%": 0.0
+     }
+    },
+    "ca_khong_dat": [
+     "MS_TEP-001",
+     "MS_TEP-002",
+     "MS_TEP-003",
+     "MS_TEP-004",
+     "MS_TEP-005",
+     "MS_TEP-006",
+     "MS_TEP-009",
+     "MS_TIEM-001",
+     "MV_DTB-002",
+     "MV_DTB-003",
+     "MV_DTB-004",
+     "MV_DTB-006",
+     "MV_DTB-007",
+     "MV_DTB-008",
+     "MV_DTB-015",
+     "MV_DTB-019",
+     "MV_DTB-020",
+     "MV_DTB-021",
+     "MV_DTB-022",
+     "MV_DTB-023",
+     "MV_DTB-024",
+     "MV_DTB-025",
+     "MV_DTB-026",
+     "MV_DTB-027",
+     "MV_DTB-028",
+     "MV_DTB-029",
+     "MV_DTB-030",
+     "MV_DTB-031",
+     "MV_DTB-032",
+     "MV_DTB-033",
+     "MV_DTB-034",
+     "MV_DTB-035",
+     "MV_DTB-036",
+     "MV_DTB-037",
+     "MV_DTB-038",
+     "MV_TKB-001",
+     "MV_TKB-002",
+     "MV_TKB-003",
+     "MV_TKB-004",
+     "MV_TKB-005",
+     "MV_TKB-006",
+     "MV_TKB-007",
+     "MV_TKB-008",
+     "MV_TKB-009",
+     "MV_TKB-010",
+     "MV_TKB-011",
+     "MV_TKB-012",
+     "MV_TKB-013",
+     "MV_TKB-014",
+     "MV_TKB-015",
+     "MV_TKB-016",
+     "MV_TKB-017"
+    ]
+   },
+   "B": {
+    "so_luot": 128,
+    "dat": 128,
+    "ti_le_dat_%": 100.0,
+    "E_tb_0_2": 2,
+    "so_lan_ro_ri": 0,
+    "T_tb_ms": 0.338,
+    "T_trung_vi_ms": 0.137,
+    "theo_nhom": {
+     "MF_DTB": {
+      "so_ca": 45,
+      "dat": 45,
+      "ti_le_%": 100.0
+     },
+     "MF_THI": {
+      "so_ca": 3,
+      "dat": 3,
+      "ti_le_%": 100.0
+     },
+     "MF_TKB": {
+      "so_ca": 5,
+      "dat": 5,
+      "ti_le_%": 100.0
+     },
+     "MS_TEP": {
+      "so_ca": 9,
+      "dat": 9,
+      "ti_le_%": 100.0
+     },
+     "MS_TIEM": {
+      "so_ca": 1,
+      "dat": 1,
+      "ti_le_%": 100.0
+     },
+     "MV_DTB": {
+      "so_ca": 38,
+      "dat": 38,
+      "ti_le_%": 100.0
+     },
+     "MV_THI": {
+      "so_ca": 10,
+      "dat": 10,
+      "ti_le_%": 100.0
+     },
+     "MV_TKB": {
+      "so_ca": 17,
+      "dat": 17,
+      "ti_le_%": 100.0
+     }
+    },
+    "ca_khong_dat": []
+   }
+  }
+ ],
+ "gop": {
+  "A": {
+   "so_luot": 384,
+   "dat": 228,
+   "ti_le_dat_%": 59.4,
+   "E_tb_0_2": 0.03,
+   "so_lan_ro_ri": 21,
+   "T_tb_ms": 0.359,
+   "T_trung_vi_ms": 0.245,
+   "theo_nhom": {
+    "MF_DTB": {
+     "so_ca": 135,
+     "dat": 135,
+     "ti_le_%": 100.0
+    },
+    "MF_THI": {
+     "so_ca": 9,
+     "dat": 9,
+     "ti_le_%": 100.0
+    },
+    "MF_TKB": {
+     "so_ca": 15,
+     "dat": 15,
+     "ti_le_%": 100.0
+    },
+    "MS_TEP": {
+     "so_ca": 27,
+     "dat": 6,
+     "ti_le_%": 22.2
+    },
+    "MS_TIEM": {
+     "so_ca": 3,
+     "dat": 0,
+     "ti_le_%": 0.0
+    },
+    "MV_DTB": {
+     "so_ca": 114,
+     "dat": 33,
+     "ti_le_%": 28.9
+    },
+    "MV_THI": {
+     "so_ca": 30,
+     "dat": 30,
+     "ti_le_%": 100.0
+    },
+    "MV_TKB": {
+     "so_ca": 51,
+     "dat": 0,
+     "ti_le_%": 0.0
+    }
+   },
+   "ca_khong_dat": [
+    "MS_TEP-001",
+    "MS_TEP-002",
+    "MS_TEP-003",
+    "MS_TEP-004",
+    "MS_TEP-005",
+    "MS_TEP-006",
+    "MS_TEP-009",
+    "MS_TIEM-001",
+    "MV_DTB-002",
+    "MV_DTB-003",
+    "MV_DTB-004",
+    "MV_DTB-006",
+    "MV_DTB-007",
+    "MV_DTB-008",
+    "MV_DTB-015",
+    "MV_DTB-019",
+    "MV_DTB-020",
+    "MV_DTB-021",
+    "MV_DTB-022",
+    "MV_DTB-023",
+    "MV_DTB-024",
+    "MV_DTB-025",
+    "MV_DTB-026",
+    "MV_DTB-027",
+    "MV_DTB-028",
+    "MV_DTB-029",
+    "MV_DTB-030",
+    "MV_DTB-031",
+    "MV_DTB-032",
+    "MV_DTB-033",
+    "MV_DTB-034",
+    "MV_DTB-035",
+    "MV_DTB-036",
+    "MV_DTB-037",
+    "MV_DTB-038",
+    "MV_TKB-001",
+    "MV_TKB-002",
+    "MV_TKB-003",
+    "MV_TKB-004",
+    "MV_TKB-005",
+    "MV_TKB-006",
+    "MV_TKB-007",
+    "MV_TKB-008",
+    "MV_TKB-009",
+    "MV_TKB-010",
+    "MV_TKB-011",
+    "MV_TKB-012",
+    "MV_TKB-013",
+    "MV_TKB-014",
+    "MV_TKB-015",
+    "MV_TKB-016",
+    "MV_TKB-017"
+   ]
+  },
+  "B": {
+   "so_luot": 384,
+   "dat": 384,
+   "ti_le_dat_%": 100.0,
+   "E_tb_0_2": 2,
+   "so_lan_ro_ri": 0,
+   "T_tb_ms": 0.392,
+   "T_trung_vi_ms": 0.135,
+   "theo_nhom": {
+    "MF_DTB": {
+     "so_ca": 135,
+     "dat": 135,
+     "ti_le_%": 100.0
+    },
+    "MF_THI": {
+     "so_ca": 9,
+     "dat": 9,
+     "ti_le_%": 100.0
+    },
+    "MF_TKB": {
+     "so_ca": 15,
+     "dat": 15,
+     "ti_le_%": 100.0
+    },
+    "MS_TEP": {
+     "so_ca": 27,
+     "dat": 27,
+     "ti_le_%": 100.0
+    },
+    "MS_TIEM": {
+     "so_ca": 3,
+     "dat": 3,
+     "ti_le_%": 100.0
+    },
+    "MV_DTB": {
+     "so_ca": 114,
+     "dat": 114,
+     "ti_le_%": 100.0
+    },
+    "MV_THI": {
+     "so_ca": 30,
+     "dat": 30,
+     "ti_le_%": 100.0
+    },
+    "MV_TKB": {
+     "so_ca": 51,
+     "dat": 51,
+     "ti_le_%": 100.0
+    }
+   },
+   "ca_khong_dat": []
+  }
+ }
+}

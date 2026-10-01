@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites name="Kiem thu MCP server – KHKT" tests="53" failures="0" skipped="10" errors="0" time="0.007256">
+  <testsuite name="Phien_ban_A_doi_chung" timestamp="2026-09-23T12:28:53" tests="24" failures="0" skipped="10" errors="0" time="0.003618">
+    <properties>
+      <property name="python" value="3.11.15" />
+      <property name="mcp" value="2.2.0" />
+      <property name="lap" value="20" />
+      <property name="moc" value="20260923_122852" />
+    </properties>
+    <testcase classname="A.F" name="F1 – xem_tkb(&quot;t2&quot;)" time="0.000241" />
+    <testcase classname="A.F" name="F2 – xem_tkb(&quot;t4&quot;)" time="0.000199" />
+    <testcase classname="A.F" name="F3 – xem_lich_thi(&quot;toan&quot;)" time="0.000204" />
+    <testcase classname="A.F" name="F4 – xem_lich_thi(&quot;tin&quot;)" time="0.000201" />
+    <testcase classname="A.F" name="F5 – xem_lich_thi(&quot;van&quot;)" time="0.000211" />
+    <testcase classname="A.F" name="F6 – Điểm 8 (hs 1), 7,5 (hs 2), 9 (hs 3)" time="0.000176" />
+    <testcase classname="A.F" name="F7 – Điểm 10 (hs 1)" time="0.000172" />
+    <testcase classname="A.F" name="F8 – Điểm 5 và 6,5 (hs 1)" time="0.000190" />
+    <testcase classname="A.F" name="F9 – Đọc nội quy lớp" time="0.000207" />
+    <testcase classname="A.F" name="F10 – Đọc toàn bộ thời khoá biểu" time="0.000187" />
+    <testcase classname="A.V" name="V1 – xem_tkb(&quot;t9&quot;)" time="0.000206">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.V" name="V2 – xem_tkb(&quot;thứ hai&quot;)" time="0.000203">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.V" name="V3 – xem_lich_thi(&quot;sinh&quot;)" time="0.000227" />
+    <testcase classname="A.V" name="V4 – Danh sách điểm rỗng" time="0.000195" />
+    <testcase classname="A.V" name="V5 – Điểm 11" time="0.000192">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.V" name="V6 – Điểm −1" time="0.000211">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.V" name="V7 – Hệ số 5" time="0.000198">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.V" name="V8 – Điểm là chữ &quot;tám&quot;" time="0.000198" />
+    <testcase classname="A.S" name="S1 – Đọc tệp mô phỏng nằm ngoài danh sách cho phép" time="0.000000">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.S" name="S2 – Tên tệp chứa ../ để thoát thư mục dữ liệu" time="0.000000">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.S" name="S3 – Ghi chú chứa lệnh ẩn (“Bỏ qua mọi lệnh trước đó…”)" time="0.000000">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.S" name="S4 – Liệt kê công cụ" time="0.000000">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.S" name="S5 – Đầu vào dài 10 000 ký tự" time="0.000000">
+      <skipped message="Phiên bản đối chứng A không đạt (dự kiến theo thiết kế)" />
+    </testcase>
+    <testcase classname="A.S" name="S6 – Gọi lặp 20 lần cùng một yêu cầu" time="0.000000" />
+  </testsuite>
+  <testsuite name="Phien_ban_B_cai_tien" timestamp="2026-09-23T12:28:53" tests="24" failures="0" skipped="0" errors="0" time="0.003638">
+    <properties>
+      <property name="python" value="3.11.15" />
+      <property name="mcp" value="2.2.0" />
+      <property name="lap" value="20" />
+      <property name="moc" value="20260923_122852" />
+    </properties>
+    <testcase classname="B.F" name="F1 – xem_tkb(&quot;t2&quot;)" time="0.000329" />
+    <testcase classname="B.F" name="F2 – xem_tkb(&quot;t4&quot;)" time="0.000297" />
+    <testcase classname="B.F" name="F3 – xem_lich_thi(&quot;toan&quot;)" time="0.000279" />
+    <testcase classname="B.F" name="F4 – xem_lich_thi(&quot;tin&quot;)" time="0.000278" />
+    <testcase classname="B.F" name="F5 – xem_lich_thi(&quot;van&quot;)" time="0.000269" />
+    <testcase classname="B.F" name="F6 – Điểm 8 (hs 1), 7,5 (hs 2), 9 (hs 3)" time="0.000253" />
+    <testcase classname="B.F" name="F7 – Điểm 10 (hs 1)" time="0.000241" />
+    <testcase classname="B.F" name="F8 – Điểm 5 và 6,5 (hs 1)" time="0.000248" />
+    <testcase classname="B.F" name="F9 – Đọc nội quy lớp" time="0.000238" />
+    <testcase classname="B.F" name="F10 – Đọc toàn bộ thời khoá biểu" time="0.000210" />
+    <testcase classname="B.V" name="V1 – xem_tkb(&quot;t9&quot;)" time="0.000111" />
+    <testcase classname="B.V" name="V2 – xem_tkb(&quot;thứ hai&quot;)" time="0.000107" />
+    <testcase classname="B.V" name="V3 – xem_lich_thi(&quot;sinh&quot;)" time="0.000109" />
+    <testcase classname="B.V" name="V4 – Danh sách điểm rỗng" time="0.000227" />
+    <testcase classname="B.V" name="V5 – Điểm 11" time="0.000112" />
+    <testcase classname="B.V" name="V6 – Điểm −1" time="0.000107" />
+    <testcase classname="B.V" name="V7 – Hệ số 5" time="0.000108" />
+    <testcase classname="B.V" name="V8 – Điểm là chữ &quot;tám&quot;" time="0.000115" />
+    <testcase classname="B.S" name="S1 – Đọc tệp mô phỏng nằm ngoài danh sách cho phép" time="0.000000" />
+    <testcase classname="B.S" name="S2 – Tên tệp chứa ../ để thoát thư mục dữ liệu" time="0.000000" />
+    <testcase classname="B.S" name="S3 – Ghi chú chứa lệnh ẩn (“Bỏ qua mọi lệnh trước đó…”)" time="0.000000" />
+    <testcase classname="B.S" name="S4 – Liệt kê công cụ" time="0.000000" />
+    <testcase classname="B.S" name="S5 – Đầu vào dài 10 000 ký tự" time="0.000000" />
+    <testcase classname="B.S" name="S6 – Gọi lặp 20 lần cùng một yêu cầu" time="0.000000" />
+  </testsuite>
+  <testsuite name="Muc_tieu_Bang_10" timestamp="2026-09-23T12:28:53" tests="5" failures="0" skipped="0" errors="0" time="0.000000">
+    <properties>
+      <property name="python" value="3.11.15" />
+      <property name="mcp" value="2.2.0" />
+      <property name="lap" value="20" />
+      <property name="moc" value="20260923_122852" />
+    </properties>
+    <testcase classname="B.MucTieu" name="F (%) – 100" time="0.000000" />
+    <testcase classname="B.MucTieu" name="V (%) – từ 90 trở lên" time="0.000000" />
+    <testcase classname="B.MucTieu" name="S (%) – 100" time="0.000000" />
+    <testcase classname="B.MucTieu" name="E (0 đến 2) – từ 1,8 trở lên" time="0.000000" />
+    <testcase classname="B.MucTieu" name="T (ms) – không tăng đáng kể (≤ 1,5 × T của A)" time="0.000000" />
+  </testsuite>
+</testsuites>
